@@ -1,0 +1,11 @@
+TABLE {border: solid #ffb6c1;width:100%;border-collapse: collapse;margin-bottom:10px}
+BODY {background-color:   #fffff0}
+TH {color:  black;width:50%;font-size:15pt}
+H1 {text-align: center;font-size:40pt}
+H2 {font-size:25pt;font-family:Brush Script MT}
+H3 {font-size:25pt;font-family:Brush Script MT}
+.golden {float:right;padding-right:40px}
+.lollipop {padding-left:40px}
+.C1 {padding-left:3em}
+FOOTER {font-weight:bold}
+P {font-size:20pt}
